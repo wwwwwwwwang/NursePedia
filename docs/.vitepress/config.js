@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: '护理知识库',
   description: '面向实习护士的轻量高性能文档站点',
+  base: '/NursePedia/',
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }]
