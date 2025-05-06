@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as l,am as r}from"./chunks/framework.KzFMpewu.js";const _=JSON.parse('{"title":"护理知识库","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"};function o(n,a,d,h,s,c){return l(),i("div",null,a[0]||(a[0]=[r("",8)]))}const f=e(t,[["render",o]]);export{_ as __pageData,f as default};
