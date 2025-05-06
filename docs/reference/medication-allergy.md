@@ -1,16 +1,14 @@
 # 药物过敏识别指南
 
-<NLayout>
-  <NLayoutHeader>识别要点</NLayoutHeader>
-  <NLayoutContent>
-  1. 过敏史询问
-  2. 症状观察
-  3. 体征检查
-  4. 及时处理
-  5. 预防措施
-  </NLayoutContent>
-  <NLayoutFooter>早发现，早处理</NLayoutFooter>
-</NLayout>
+:::info 识别要点
+1. 过敏史询问
+2. 症状观察
+3. 体征检查
+4. 及时处理
+5. 预防措施
+
+**早发现，早处理**
+:::
 
 ## 过敏症状识别
 

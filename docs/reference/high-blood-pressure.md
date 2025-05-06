@@ -1,16 +1,14 @@
 # 高血压护理要点
 
-<NLayout>
-  <NLayoutHeader>护理重点</NLayoutHeader>
-  <NLayoutContent>
-  1. 血压监测
-  2. 用药指导
-  3. 生活方式干预
-  4. 并发症预防
-  5. 健康教育
-  </NLayoutContent>
-  <NLayoutFooter>预防为主，综合管理</NLayoutFooter>
-</NLayout>
+:::info 护理重点
+1. 血压监测
+2. 用药指导
+3. 生活方式干预
+4. 并发症预防
+5. 健康教育
+
+**预防为主，综合管理**
+:::
 
 ## 血压监测
 
