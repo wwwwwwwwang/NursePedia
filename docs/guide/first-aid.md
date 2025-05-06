@@ -1,3 +1,9 @@
+---
+title: 急救措施指南
+home: false
+showScreenshotButton: true
+---
+
 # 急救措施指南
 
 :::info 基本急救流程
