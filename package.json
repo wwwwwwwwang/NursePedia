@@ -1,0 +1,20 @@
+{
+  "name": "nursepedia",
+  "version": "1.0.0",
+  "description": "护理知识库 - 面向实习护士的轻量高性能文档站点",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm vitepress dev docs",
+    "build": "pnpm vitepress build docs",
+    "serve": "pnpm vitepress serve docs"
+  },
+  "keywords": ["nursing", "documentation", "vitepress"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "naive-ui": "^2.41.0",
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.13"
+  }
+}

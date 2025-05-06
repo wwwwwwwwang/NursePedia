@@ -134,3 +134,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# npm package lock files
+package-lock.json
+pnpm-lock.yaml
+
+# System files
+.DS_Store
+Thumbs.db
