@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as r,am as l}from"./chunks/framework.B4jaZl1m.js";const _=JSON.parse('{"title":"护理知识库","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"};function o(n,e,d,s,h,u){return r(),i("div",null,e[0]||(e[0]=[l("",8)]))}const f=a(t,[["render",o]]);export{_ as __pageData,f as default};
