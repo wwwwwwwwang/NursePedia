@@ -147,3 +147,7 @@ pnpm-lock.yaml
 # System files
 .DS_Store
 Thumbs.db
+
+# VitePress generated files
+high-blood-pressure.html
+docs/.vitepress/cache/

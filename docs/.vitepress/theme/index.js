@@ -1,10 +1,12 @@
 import DefaultTheme from 'vitepress/theme'
 import { createApp } from 'vue'
 import { create, NButton, NLayout, NLayoutHeader, NLayoutContent, NLayoutFooter, NSwitch } from 'naive-ui'
+import Layout from './Layout.vue'
 import './styles/override.css'
 
 const theme = {
   ...DefaultTheme,
+  Layout,
   enhanceApp({ app, router, siteData }) {
     // 仅在客户端应用 Naive UI
     if (!import.meta.env.SSR) {

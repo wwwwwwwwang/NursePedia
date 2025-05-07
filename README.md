@@ -91,7 +91,7 @@
   ```bash
   pnpm run dev
   ```
-  这将在本地启动开发服务器 (默认 http://localhost:3002)，支持热重载。
+  这将在本地启动开发服务器 (默认 http://localhost:3002 )，支持热重载。
 
 - **构建生产版本**:
   ```bash
